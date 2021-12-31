@@ -7,9 +7,9 @@
 2. write a normal program using fallthrough
 3. Take a string using switch findout number of vovels, consonenets and special char
 4. write a reverse a string do not use a libruary function
-5.write a multidimenstional array, and assign values and try to access values an try with    with rang and without range.
+5. write a multidimenstional array, and assign values and try to access values an try with    with rang and without range.
 6. Biggest number using slices.
 7. create MAP perform add, update, delete, and get operation delete all.
 8. Take a slice appended element in the slice using rand packages.
-9.Find out how many times each number accesses in slices using map.
+9. Find out how many times each number accesses in slices using map.
 10. create 2 function, take global variable i and 2 goroutine should increment value of i untill recahes 100.
