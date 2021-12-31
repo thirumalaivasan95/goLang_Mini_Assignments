@@ -1,1 +1,1 @@
-# goLang_Mini_Assignments
+# GoLang Mini Assignments
