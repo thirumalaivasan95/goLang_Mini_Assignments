@@ -7,7 +7,7 @@
 2. write a normal program using fallthrough
 3. Take a string using switch findout number of vovels, consonenets and special char
 4. write a reverse string do not use a library function
-5. write a multidimenstional array, and assign values and try to access values an try with range and without range.
+5. write a multidimensional array, and assign values and try to access values an try with range and without range.
 6. Biggest number using slices.
 7. create MAP perform add, update, delete, and get operation delete all.
 8. Take a slice appended element in the slice using rand packages.
