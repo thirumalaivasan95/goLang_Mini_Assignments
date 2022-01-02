@@ -12,4 +12,4 @@
 7. create MAP perform add, update, delete, and get operation delete all.
 8. Take a slice appended element in the slice using rand packages.
 9. Find out how many times each number accesses in slices using map.
-10. create 2 function, take global variable i and 2 goroutine should increment value of i untill reaches 100.
+10. create 2 function, take global variable i and 2 goroutine should increment value of i until reaches 100.
